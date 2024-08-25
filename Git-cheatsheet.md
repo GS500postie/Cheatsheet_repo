@@ -8,7 +8,7 @@ Type **git clone**, paste the copied url.
 
 Press **enter** to create the clone.
 
-Cd to the cloned repo. Type **git init . **
+Cd to the cloned repo. Type **git init .**
 
 (git status often to check)
 
