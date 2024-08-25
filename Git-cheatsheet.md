@@ -21,3 +21,14 @@ Back in terminal, **git add .**
 Type **git commit -m “message”**
 
 Type **git push -u origin main** as per usual. Seems to work.
+
+**Caching credentials.**
+
+This is when you want to set up a computer for frequent git/github interaction.
+
+Install **Git Credential Manager**.
+
+Navigate to Github docs/get started/caching credentials.
+Click on the **instructions in the GCM repo**
+
+We’ll try debian, but I’m going to do that on the downstairs laptop after I have cloned this repo
