@@ -8,8 +8,16 @@ Type **git clone**, paste the copied url.
 
 Press **enter** to create the clone.
 
-Cd to the cloned repo. Git status just to check.
+Cd to the cloned repo. Type **git init . **
+
+(git status often to check)
 
 Create a markdown file in the cloned repo on the desktop.
 
 Open the repo in VSCode, do some work for testing purposes.
+
+Back in terminal, **git add .**
+
+Type **git commit -m “message”**
+
+Type **git push -u origin main** as per usual. Seems to work.
