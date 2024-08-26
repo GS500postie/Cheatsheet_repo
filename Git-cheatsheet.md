@@ -22,6 +22,8 @@ Type **git commit -m “message”**
 
 Type **git push -u origin main** as per usual. Seems to work.
 
+---
+
 **Caching credentials.**
 
 This is when you want to set up a computer for frequent git/github interaction.
