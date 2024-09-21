@@ -36,3 +36,4 @@ Click on the **instructions in the GCM repo**
 We’ll try debian, but I’m going to do that on the downstairs laptop after I have cloned this repo
 
 Just testing this
+**adding some text**
