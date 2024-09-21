@@ -36,5 +36,14 @@ Click on the **instructions in the GCM repo**
 We’ll try debian, but I’m going to do that on the downstairs laptop after I have cloned this repo
 
 Just testing this
-**adding some text**
-**adding more text**
+
+Just forget about all of this.
+
+So, to login you will need a personal access token, which we know how to generate. The important thing is to set the computer up for a connection with Github.
+
+First up, enter **git config --global credential.helper store**
+
+This will store your login info so you never have to enter it again. I did it while in the actual local repo, but not sure if this matters. (it didn't, because I initially entered this command while in the root folder)
+
+So when you push to the upstream repo you should never need to login again. Worked a couple of times already so see how we go.
+You will only have to enter your username and PAC once.
